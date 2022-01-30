@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>
-          Hello Welcome To Blockchain & Metaverse World.<br/>We Explore Web 3.0 , De-Fi & NFT's With Cryptocurrencies
+          Welcome To Blockchain World.<br/>We Explore Metaverse With Web 3.0 , De-Fi & NFT's Connect In Cryptocurrencies.
         </h3>
         <a
           className="App-link"
@@ -16,7 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          We Love Bitcoin
+          <b>
+            We Love Bitcoin
+          </b>
         </a>
       </header>
     </div>

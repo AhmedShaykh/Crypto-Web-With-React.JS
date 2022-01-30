@@ -1,5 +1,5 @@
 # Crypto WEB 3.0 With React.JS
 
-Hello Welcome To Blockchain & Metaverse World . We Explore Web 3.0 , De-Fi & NFT's With Crypto
+Welcome To Blockchain World. We Explore Metaverse With Web 3.0 , De-Fi & NFT's Connect In Cryptocurrencies.
 
 http://crypto-web3-by-ahmed.surge.sh/
