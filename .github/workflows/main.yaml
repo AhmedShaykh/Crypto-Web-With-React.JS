@@ -25,14 +25,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Installing Node.js
-        uses: actions/setup-node@12.22.9
+        uses: actions/setup-node@2.4.1
         with:
           node-version: 12
-          
-      - name: Github Actions for Yarn
-        uses: Borales/actions-yarn@v2.1.0
-        with:
-          cmd: install
 
       # Runs a set of commands using the runners shell
       - name: Installing Surge
