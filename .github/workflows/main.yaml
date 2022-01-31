@@ -34,9 +34,6 @@ jobs:
         with:
           cmd: install
           
-      - name: Creating Npm Build
-        uses: npm run build
-
       # Runs a set of commands using the runners shell
       - name: Installing Surge
         run: npm install --global surge
