@@ -29,9 +29,6 @@ jobs:
         with:
           node-version: 12
 
-      -name: Creating React Build
-        run: npm run build
-
       # Runs a set of commands using the runners shell
       - name: Installing Surge
         run: npm install --global surge
