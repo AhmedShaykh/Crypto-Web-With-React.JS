@@ -31,7 +31,7 @@ jobs:
           cmd: npm install
 
       - name: Create React App Build
-        run: npm run build
+        run: npm build
 
       # Runs a set of commands using the runners shell
       - name: Installing Surge
