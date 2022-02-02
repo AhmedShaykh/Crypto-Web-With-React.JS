@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>
-          Welcome To Blockchain World.<br/>We Explore Metaverse With Web 3.0 , De-Fi & NFT's Connect In Cryptocurrencies.
+          Welcome To Blockchain World.<br />We Explore Metaverse With Web 3.0 , De-Fi & NFT's Connect In Cryptocurrencies.
         </h3>
         <a
           className="App-link"
