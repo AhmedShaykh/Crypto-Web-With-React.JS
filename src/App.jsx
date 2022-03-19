@@ -7,17 +7,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h3>
-          Welcome To Blockchain World.<br />We Explore Metaverse With Web 3.0 , De-Fi & NFT's Connect In Cryptocurrencies.
-        </h3>
+        <h4>
+          <p>
+            Welcome To Blockchain World.<br />We Explore Metaverse With Web 3.0, Defi, NFT's & Smart Contract Connect In Cryptocurrencies.
+          </p>
+        </h4>
         <a
           className="App-link"
-          href="https://coinmarketcap.com/"
+          href="https://opensea.io/collection/ahmedshaykh"
           target="_blank"
           rel="noopener noreferrer"
         >
           <b>
-            We Love Bitcoin
+            Check It My Collection's On OpenSea
           </b>
         </a>
       </header>
