@@ -9,17 +9,17 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h4>
           <p>
-            Welcome To Blockchain World.<br />We Explore Metaverse With Web 3.0, Defi, NFT's & Smart Contract Connect In Cryptocurrencies.
+            Welcome To Blockchain World.<br />We Create Metaverse , Web 3.0 , De-Fi , NFT's , Cryptocurrencies , Smart Contract's , DAO & DApps .
           </p>
         </h4>
         <a
           className="App-link"
-          href="https://opensea.io/collection/ahmedshaykh"
+          href="https://coinmarketcap.com/watchlist/61fd7d5da00b565b2f310e96"
           target="_blank"
           rel="noopener noreferrer"
         >
           <b>
-            Check It My Collection's On OpenSea
+            Check It My Watchlist In CoinMarketCap 🚀
           </b>
         </a>
       </header>
